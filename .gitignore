@@ -1,0 +1,20 @@
+# Large model files (too big for GitHub)
+models/
+data/
+mlruns/
+mlflow.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.tflite
+
+# Notebooks checkpoints
+.ipynb_checkpoints/

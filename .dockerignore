@@ -1,0 +1,13 @@
+data/
+mlruns/
+mlflow.db
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
+.git/
+notebooks/
+*.ipynb
+model_v1_best.h5
+model_v2_best.h5
